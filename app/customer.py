@@ -54,6 +54,3 @@ class Customer:
 
         self.money -= total_cost
         return total_cost
-
-        self.money -= total_cost
-        return total_cost
